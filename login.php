@@ -50,7 +50,7 @@ if (isset($_SESSION["employe"])) {
         </div>
       </form>
       </br>
-     <div><p>Not registered yet <a href="salon.php">Register Here</a></p></div>
+     <div><p>Not registered yet <a href="registration.php">Register Here</a></p></div>
     </div>
 </body>
 </html>
